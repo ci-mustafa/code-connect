@@ -21,6 +21,12 @@ body {
 header {
     background-color: rgba(134, 134, 73, 0.2);
     display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    position: relative;
 }
 
 header > a {
@@ -30,6 +36,7 @@ header > a {
 
 header h1 {
     font-family: "Dangrek", sans-serif;
+    font-size: large;
     border: double 2px #000000;
     border-top-left-radius: 10px;
     border-top-right-radius: 40px;
@@ -42,7 +49,29 @@ header h1 {
 #menu {
     list-style-type: none;
 }
+/* Navigation menu */
+/* Hide navigation menu by default */
+#navigation {
+    position: absolute;
+    display: none;
+    background-color: rgba(134, 134, 73, 0.2);
+    width: 100%;
+    top: 100%;
+    left: 0;
+}
 
+/* Show navigation menu when checkbox is checked */
+#nav-toggle:checked~#navigation {
+    display: block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+.nav-toggle-label {
+    font-size: xx-large;
+}
 /* Main */
 /*
 Ensuring that the main content area expands to fill the available vertical space within the flex container
@@ -50,7 +79,6 @@ while allowing it to shrink to its initial size if needed.
 */
 main {
     flex: 1 0 auto;
-    background-color: rgba(37, 50, 43, 0.7);
 }
 
 /* Footer */
