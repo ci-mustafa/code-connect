@@ -20,6 +20,23 @@ body {
 /* Header */
 header {
     background-color: rgba(134, 134, 73, 0.2);
+    display: flex;
+}
+
+header > a {
+    text-decoration: none;
+    color: #000000;
+}
+
+header h1 {
+    font-family: "Dangrek", sans-serif;
+    border: double 2px #000000;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 40px;
+    margin: 10px;
+    padding: 5px;
 }
 
 /* Main */
