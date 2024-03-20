@@ -39,6 +39,10 @@ header h1 {
     padding: 5px;
 }
 
+#menu {
+    list-style-type: none;
+}
+
 /* Main */
 /*
 Ensuring that the main content area expands to fill the available vertical space within the flex container
