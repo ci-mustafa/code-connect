@@ -7,3 +7,23 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+/* Body */
+/* Setting the minimum height of the body to occupy the full viewport height, 
+utilizing flexbox to arrange its children vertically  */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+/* Main */
+/*
+Ensuring that the main content area expands to fill the available vertical space within the flex container
+while allowing it to shrink to its initial size if needed.
+*/
+main {
+    flex: 1 0 auto;
+}
