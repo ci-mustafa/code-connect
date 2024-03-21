@@ -45,7 +45,7 @@ header h1 {
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 40px;
     margin-bottom: 10px;
-    padding: 5px;
+    padding: 7px;
 }
 
 /* Navigation menu */
@@ -123,10 +123,33 @@ footer {
 
     #menu {
         display: flex;
+        margin-bottom: 5px;
+        margin-top: 10px;
+        margin-right: 10px;
+        border: double 2px #000000;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 40px;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 40px;
+        padding: 5px;
+    }
+
+    .menu-items {
+        margin-right: 5px;
     }
 
     .nav-toggle-label {
         display: none;
+    }
+
+    #menu a {
+        font-size: large;
+    }
+
+    header h1 {
+        font-size: x-large;
+        margin-top: 5px;
+        margin-left: 10px;
     }
 }
 
@@ -134,6 +157,10 @@ footer {
 @media screen and (min-width: 992px) {
     #menu a:hover {
         color:sienna;
+    }
+
+    header h1:hover {
+        color: sienna;
     }
 
 }
