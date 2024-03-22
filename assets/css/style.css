@@ -58,6 +58,7 @@ header h1 {
     width: 100%;
     top: 100%;
     left: 0;
+    color: white;
 }
 
 /* Show navigation menu when checkbox is checked */
