@@ -167,7 +167,11 @@ main {
     margin: 10px;
     font-family: "IBM Plex Mono", sans-serif;
     font-size: smaller;
+}
 
+.p-line {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 /* Footer */
 footer {
