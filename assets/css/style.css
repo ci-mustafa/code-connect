@@ -318,7 +318,7 @@ footer {
 #social-medias i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: rgba(112, 102, 4, 1);
 }
 
 /* media query: tablets and larger (768px and up) */
