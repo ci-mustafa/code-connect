@@ -191,6 +191,15 @@ main {
     margin-right: 10px;
     text-transform: capitalize;
 }
+
+#our-mission-div {
+    border: solid 2px rgba(117, 5, 32, 0.6);
+    background-color: rgba(117, 5, 32, 0.1);
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: 2px 2px 4px rgba(117, 5, 32, 0.6);
+}
 /* Footer */
 footer {
     background-color: rgba(70, 18, 70, 0.20);
