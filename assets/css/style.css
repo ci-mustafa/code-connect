@@ -200,6 +200,12 @@ main {
     margin-right: 10px;
     box-shadow: 2px 2px 4px rgba(117, 5, 32, 0.6);
 }
+
+.our-mission-heading3 {
+    margin: 10px;
+    font-family: "IBM Plex Mono", sans-serif;
+    font-size: small;
+}
 /* Footer */
 footer {
     background-color: rgba(70, 18, 70, 0.20);
