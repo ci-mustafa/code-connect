@@ -47,6 +47,7 @@ header h1 {
     border-bottom-left-radius: 40px;
     margin-bottom: 10px;
     padding: 7px;
+    color: rgba(112, 102, 4, 1);
 }
 
 /* Navigation menu */
@@ -54,7 +55,7 @@ header h1 {
 #navigation {
     position: absolute;
     display: none;
-    background-color: rgba(26, 29, 26, 0.3);
+    background-color: rgba(26, 29, 26, 0.8);
     width: 100%;
     top: 100%;
     left: 0;
@@ -85,7 +86,7 @@ header h1 {
 
 #menu>li>a {
     text-decoration: none;
-    color: #000000;
+    color: rgba(112, 102, 4, 1);
 }
 
 .menu-items {
@@ -165,6 +166,7 @@ main {
     margin-left: 10px;
     margin-right: 10px;
     text-transform: capitalize;
+    color: rgba(112, 102, 4, 1);
 }
 
 #about-div {
@@ -203,6 +205,7 @@ main {
     margin-left: 10px;
     margin-right: 10px;
     text-transform: capitalize;
+    color: rgba(112, 102, 4, 1);
 }
 
 #our-mission-div {
@@ -220,10 +223,12 @@ main {
     margin-left: 10px;
     margin-right: 10px;
     margin-top: 10px;
+    color: rgba(112, 102, 4, 1);
 }
 
 .our-mission-heading3>i {
     margin-left: 10px;
+    color: rgba(112, 102, 4, 1);
 }
 
 .mission-paragraph {
@@ -250,6 +255,7 @@ main {
     margin-left: 10px;
     margin-right: 10px;
     text-transform: capitalize;
+    color: rgba(112, 102, 4, 1);
 }
 
 #meeting-times-div {
