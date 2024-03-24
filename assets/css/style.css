@@ -146,6 +146,8 @@ main {
 
 #about-heading {
     font-family: "IBM Plex Mono", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 /* Footer */
 footer {
