@@ -132,7 +132,16 @@ main {
     text-transform: capitalize;
     border-top-right-radius: 50px;
     border-bottom-right-radius: 50px;
-    
+
+}
+
+/* main horizontal line */
+.main-line {
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 10px;
+    width: 100px;
+    border-top: 5px dotted rgba(26, 29, 26, 0.3);
 }
 
 /* About section */
@@ -174,14 +183,6 @@ main {
     margin-right: 20px;
 }
 
-/* main horizontal line */
-.main-line {
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-top: 10px;
-    width: 100px;
-    border-top: 5px dotted rgba(26, 29, 26, 0.3);
-}
 /* our mission section */
 #our-mission-section {
     background-color: rgba(26, 29, 26, 0.15);
@@ -217,9 +218,10 @@ main {
     margin-top: 10px;
 }
 
-.our-mission-heading3 > i {
+.our-mission-heading3>i {
     margin-left: 10px;
 }
+
 .mission-paragraph {
     margin-left: 10px;
     margin-right: 10px;
@@ -227,6 +229,25 @@ main {
     font-family: "IBM Plex Mono", sans-serif;
     font-size: smaller;
 }
+
+/* Meeting times section */
+#meeting-times-section {
+    background-color: rgba(26, 29, 26, 0.15);
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#meeting-times-heading2 {
+    font-family: "Dangrek", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-transform: capitalize;
+}
+
 /* Footer */
 footer {
     background-color: rgba(70, 18, 70, 0.20);
@@ -277,7 +298,7 @@ footer {
 /* media query: larger devices laptop and desktop (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
-        color:sienna;
+        color: sienna;
     }
 
     header h1:hover {
