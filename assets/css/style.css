@@ -148,6 +148,7 @@ main {
     font-family: "IBM Plex Mono", sans-serif;
     margin-top: 10px;
     margin-bottom: 10px;
+    text-transform: capitalize;
 }
 /* Footer */
 footer {
