@@ -43,7 +43,7 @@
         <nav id="navigation">
             <ul id="menu">
                 <li id="home" class="menu-items active-page"><a href="index.html">Home</a></li>
-                <li id="about" class="menu-items"><a href="#about">About</a></li>
+                <li id="about" class="menu-items" onclick="hideMenu()"><a href="#about">About</a></li>
                 <li id="gallery" class="menu-items"><a href="codegallery.html">Gallery</a></li>
                 <li id="signup" class="menu-items"><a href="signup.html">Signup</a></li>
             </ul>
@@ -72,6 +72,16 @@
     </footer>
     <!-- Font awesome kit -->
     <script src="https://kit.fontawesome.com/2affd98d23.js" crossorigin="anonymous"></script>
+    <!-- javascrip function to hide menu when clicking on about link by unchecking the checkbox-->
+    <!-- The setTimeout() function is a built-in JavaScript function 
+        that executes a specified function after a specified delay (in milliseconds).  -->
+    <script>
+        function hideMenu() {
+            setTimeout(function () {
+                document.getElementById("nav-toggle").checked = false;
+            }, 50);
+        }
+    </script>
 </body>
 
 </html>
