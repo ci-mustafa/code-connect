@@ -257,6 +257,21 @@ main {
     box-shadow: 2px 2px 4px rgba(117, 5, 32, 0.6);
 }
 
+#meeting-table {
+    width: 100%;
+    border-collapse: collapse; /* Ensures consistent borders */
+}
+
+#meeting-table th,
+#meeting-table td {
+    padding: 8px;
+    border: 1px solid rgba(26, 29, 26, 0.15); /* Add borders for clarity */
+    text-align: center; /* Align text to center */
+    font-family: "IBM Plex Mono", sans-serif;
+    font-size: 10px;
+
+}
+
 /* Footer */
 footer {
     background-color: rgba(70, 18, 70, 0.20);
