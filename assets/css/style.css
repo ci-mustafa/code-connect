@@ -318,6 +318,7 @@ img {
     box-shadow: 2px 2px 4px rgba(112, 102, 4, 1);
     background-color: rgba(26, 29, 26, 0.8);
     color: rgba(112, 102, 4, 1);
+    padding: 5%;
 }
 
 #signup-form h2 {
@@ -329,16 +330,17 @@ img {
 }
 
 .text-input {
-    margin-left: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
     background: transparent;
     height: 27px;
     border-radius: 5px;
+    width: 100%;
+    padding:0 5px;
 }
 
 #signup-form label {
     font-family: "IBM Plex Mono", sans-serif;
-    margin-left: 10px;
 }
 
 #beginner, #intermediate, #advanced {
