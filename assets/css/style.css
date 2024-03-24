@@ -153,6 +153,17 @@ main {
     text-transform: capitalize;
 }
 
+#about-div {
+    border: dashed 2px black;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#first-p {
+    margin-top: 10px;
+}
+
 .about-paraghraph {
     margin-bottom: 10px;
     margin-left: 10px;
