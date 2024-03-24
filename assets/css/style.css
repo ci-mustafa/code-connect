@@ -206,12 +206,12 @@ main {
     font-size: medium;
     margin-left: 10px;
     margin-right: 10px;
-}
-
-#first-h3 {
     margin-top: 10px;
 }
 
+.our-mission-heading3 > i {
+    margin-left: 10px;
+}
 .mission-paragraph {
     margin-left: 10px;
     margin-right: 10px;
