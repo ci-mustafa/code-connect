@@ -58,7 +58,28 @@
                 Signup
             </h2>
             <form action="thankyou.html" id="signup-form" method="GET">
-                
+                <h2>Join Our Community <i class="fa-solid fa-user-plus"></i> </h2>
+                <label for="firstname">First Name</label>
+                <input type="text" name="firstname" id="firstname" class="text-input" required>
+                <br>
+                <label for="lastname">Last Name</label>
+                <input type="text" name="lastname" id="lastname" class="text-input" required>
+                <br>
+                <label for="emailaddress">Email</label>
+                <input type="email" name="emailaddress" id="emailaddress" class="text-input" required>
+                <br>
+                <div class="radio-buttons">
+                    <label for="beginner">Beginner Coder</label>
+                    <input type="radio" id="beginner" value="beginner" name="coder_level" required checked>
+                    <br>
+                    <label for="intermediate">Intermediate Coder</label>
+                    <input type="radio" id="intermediate" value="intermediate" name="coder_level" required>
+                    <br>
+                    <label for="advanced">Advanced Coder</label>
+                    <input type="radio" id="advanced" value="advanced" name="coder_level" required>
+                    <br>
+                </div>
+                <input type="submit" value="Let's Begin!" class="join-button">
             </form>
         </section>
     </main>
