@@ -143,15 +143,6 @@ main {
 
 }
 
-/* main horizontal line */
-.main-line {
-    margin-right: 50px;
-    margin-left: 50px;
-    margin-top: 10px;
-    width: 100px;
-    border-top: 5px dotted rgba(26, 29, 26, 0.3);
-}
-
 /* About section */
 #about-section {
     background-color: rgba(26, 29, 26, 0.15);
