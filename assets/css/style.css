@@ -155,10 +155,12 @@ main {
 }
 
 #about-div {
-    border: dashed 2px black;
+    border: solid 2px rgba(117, 5, 32, 0.6);
+    background-color: rgba(117, 5, 32, 0.1);
     margin-bottom: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    box-shadow: 2px 2px 4px rgba(117, 5, 32, 0.6);
 }
 
 .about-paraghraph {
