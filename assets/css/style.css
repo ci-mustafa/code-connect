@@ -110,6 +110,10 @@ main {
     flex-direction: column;
 }
 
+.hidden-headings {
+    display: none;
+}
+
 /* coding image */
 #coding {
     background: url("../images/coding1.jpg") no-repeat center center/cover;
