@@ -202,9 +202,22 @@ main {
 }
 
 .our-mission-heading3 {
-    margin: 10px;
     font-family: "Dangrek", sans-serif;
     font-size: medium;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#first-h3 {
+    margin-top: 10px;
+}
+
+.mission-paragraph {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-family: "IBM Plex Mono", sans-serif;
+    font-size: smaller;
 }
 /* Footer */
 footer {
