@@ -371,7 +371,6 @@ footer {
 }
 
 /* media query: tablets and larger (768px and up) */
-
 @media screen and (min-width: 768px) {
     #navigation {
         display: block;
@@ -417,6 +416,7 @@ footer {
         border-top-right-radius: 100px;
         border-bottom-right-radius: 100px;
     }
+
 }
 
 /* media query: larger devices laptop and desktop (992px and up) */
@@ -428,5 +428,4 @@ footer {
     header h1:hover {
         color: sienna;
     }
-
 }
