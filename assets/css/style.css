@@ -407,6 +407,13 @@ footer {
         margin-top: 5px;
         margin-left: 10px;
     }
+
+    #coding-text {
+        margin-right: 50%;
+        font-size: 30px;
+        border-top-right-radius: 100px;
+        border-bottom-right-radius: 100px;
+    }
 }
 
 /* media query: larger devices laptop and desktop (992px and up) */
