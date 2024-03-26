@@ -431,7 +431,10 @@ footer {
 
     /* signup form */
     #signup-form {
-        margin: 150px;
+        margin-left:150px;
+        margin-right: 150px;
+        margin-bottom: 50px;
+        margin-top: 50px;
     }
 
     #signup-form h2 {
@@ -463,12 +466,13 @@ footer {
         color: sienna;
     }
 
+    footer #social-medias li a:hover i {
+        color: sienna;
+    }
+
+    /* Gallery */
     #photos {
         column-count: 4;
     }
 
-    footer #social-medias li a:hover i {
-        color: sienna;
-    }
-    
 }
