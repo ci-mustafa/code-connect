@@ -425,6 +425,10 @@ footer {
         border-bottom-right-radius: 100px;
     }
 
+    #photos {
+        column-count: 3;
+    }
+
 }
 
 /* media query: larger devices laptop and desktop (992px and up) */
@@ -435,5 +439,9 @@ footer {
 
     header h1:hover {
         color: sienna;
+    }
+
+    #photos {
+        column-count: 4;
     }
 }
