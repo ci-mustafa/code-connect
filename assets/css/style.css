@@ -438,6 +438,11 @@ footer {
     .text-input {
         height: 50px;
     }
+
+    .label-input {
+        font-size: large;
+        font-weight: bold;
+    }
 }
 
 /* media query: larger devices laptop and desktop (992px and up) */
