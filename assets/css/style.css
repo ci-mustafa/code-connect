@@ -442,4 +442,9 @@ footer {
     #photos {
         column-count: 4;
     }
+
+    footer #social-medias li a:hover i {
+        color: sienna;
+    }
+    
 }
