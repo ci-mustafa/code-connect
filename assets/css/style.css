@@ -435,6 +435,10 @@ footer {
         margin: 150px;
     }
 
+    #signup-form h2 {
+        font-size: xx-large;
+    }
+
     .text-input {
         height: 50px;
     }
