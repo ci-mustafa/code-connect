@@ -312,7 +312,6 @@ main {
 #signup-form h2 {
     font-family: "Dangrek", sans-serif;
     font-size: larger;
-    /* padding-left: 10px; */
     padding-top: 3px;
     margin-bottom: 10px;
 }
@@ -335,7 +334,7 @@ main {
 #intermediate,
 #advanced {
     margin-left: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .join-button {
