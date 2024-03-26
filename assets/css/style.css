@@ -475,4 +475,14 @@ footer {
         column-count: 4;
     }
 
+     /* signup form */
+
+     .text-input:hover {
+        border-color: sienna;
+    }
+
+    .join-button:hover {
+        color: sienna;
+    }
+
 }
