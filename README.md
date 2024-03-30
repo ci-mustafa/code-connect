@@ -28,6 +28,29 @@ Through our intuitive form application, anyone can seamlessly sign up and tailor
 ### [Credits](#credits-1)
 ### [Acknowledgements](#acknowledgements-1)
 ---
+## User Experience (UX)
+
+This platform is designed to engage individuals passionate about coding and eager to enhance their skills through collaborative learning.
+
+With intuitive navigation and a user-friendly sign-up form, aspiring coders can apply to join our coding community and embark on a journey of growth and discovery.
+
+For those interested in contributing to the Code Connect platform, we welcome inquiries about joining our team. We are constantly seeking talented individuals who share our vision for fostering collaboration and knowledge sharing within the coding community.
+
+### User Stories
+
+ * First-time visitor goals
+    * Understand the main purpose of the site and learn more about the Code Connect Community.
+    * Easily navigate throughout the site.
+    * Find the Sign Up form and fill it out.
+ * Returning visitor goals
+    * Find out information about the Code Connect Community.
+    * Locate contact information.
+    * Review the site's extensive gallery.
+
+ * Frequent user goals
+    * Check if there are any new packages to apply for in the sign-up form.
+    * Review the gallery for any new photos.
+- - -
 
 
 
