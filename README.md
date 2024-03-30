@@ -51,6 +51,11 @@ For those interested in contributing to the Code Connect platform, we welcome in
     * Check if there are any new packages to apply for in the sign-up form.
     * Review the gallery for any new photos.
 - - -
+## Features
+
+* This website is targeting people who want to join to a coding community, share their project ideas and enhance coding skills.
+* They can do that by navigating to the sign-up page and filling out a form.
+* Responsive on all device sizes.
 
 
 
