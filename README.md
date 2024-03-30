@@ -4,3 +4,5 @@ At Code Connect, we're not just a platform; we're a mission-driven community ded
 Through our commitment to fostering collaboration, sharing knowledge, and supporting individual growth, we strive to bridge the gap between coders and cultivate a vibrant ecosystem of innovation and creativity. Whether you're a beginner taking your first steps into the world of coding or an experienced professional seeking new challenges, Code Connect is here to support you on your journey.
 
 Through our intuitive form application, anyone can seamlessly sign up and tailor their coding journey by selecting their preferred proficiency level, ranging from beginner to advanced.
+
+![Image from different sizes of screens](/assets/images/readme-img.png)
