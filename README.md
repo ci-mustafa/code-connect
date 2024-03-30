@@ -56,6 +56,13 @@ For those interested in contributing to the Code Connect platform, we welcome in
 * This website is targeting people who want to join to a coding community, share their project ideas and enhance coding skills.
 * They can do that by navigating to the sign-up page and filling out a form.
 * Responsive on all device sizes.
+### Existing Features
+
+* Navigation bar
+    * It is featured and fixed on all three pages and the form-received page.
+    * Includes links to the logo, home page, about, our mission, gallery, and sign-up page.
+    * It is identical in design across the pages.
+    * Allows easy navigation from page to page.
 
 
 
