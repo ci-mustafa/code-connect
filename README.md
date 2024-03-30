@@ -63,6 +63,8 @@ For those interested in contributing to the Code Connect platform, we welcome in
     * Includes links to the logo, home page, about, our mission, gallery, and sign-up page.
     * It is identical in design across the pages.
     * Allows easy navigation from page to page.
+    
+![Navigation](/assets/images/nav-img.png)
 
 
 
