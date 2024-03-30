@@ -324,6 +324,9 @@ main {
     border-radius: 5px;
     width: 100%;
     padding: 0 5px;
+    color:antiquewhite;
+    font-size: medium;
+    font-family: "IBM Plex Mono", sans-serif;
 }
 
 #signup-form label {
