@@ -6,6 +6,28 @@ Through our commitment to fostering collaboration, sharing knowledge, and suppor
 Through our intuitive form application, anyone can seamlessly sign up and tailor their coding journey by selecting their preferred proficiency level, ranging from beginner to advanced.
 
 ![Image from different sizes of screens](/assets/images/readme-img.png)
-
 [View Code Connect live website here](https://ci-mustafa.github.io/code-connect/index.html)
+
+- - - 
+## Table Of Content
+### [User Experience (UX)](#user-experience-ux-1)
+* [User Stories](#user-stories)
+### [Features](#features)
+* [Existing Features](#existing-features)
+### [Features Left to Implement](#features-left-to-implement-1)
+### [Design](#design-1)
+### [Technologies Used](#technologies-used-1)
+### [Testing](#testing-1)
+* [Validation Results](#validation-results)
+* [Manual Testing](#manual-testing)
+* [Lighthouse Report](#lighthouse-report)
+### [Deployment and local development](#deployment-and-local-development-1)
+* [GitHub Pages](#github-pages)
+* [Forking the GitHub Repository](#forking-the-github-repository)
+* [Local Clone](#local-clone)
+### [Credits](#credits-1)
+### [Acknowledgements](#acknowledgements-1)
+---
+
+
 
