@@ -133,6 +133,26 @@ For those interested in contributing to the Code Connect platform, we welcome in
 * Updated gallery with additional images.
 * In the future, we plan to introduce user accounts for personalized experiences and a chat feature for seamless communication among our community members.
 
+---
+
+## Design
+
+ * Colour Scheme
+    * Primary colors used on the website:
+      * --pale-slate: rgba(209,201,204,1);
+      * --copper-rust: rgba(136,76,79,1);
+      * --hurricane: rgba(142,123,126,1);
+      * --cape-palliser: rgba(148,114,60,1);
+      * --athens-gray: rgba(237,238,240,1);
+      * --mongoose: rgba(194,157,127,1);
+
+   ![Color Scheme](/assets/images/colors.png)
+
+ * Typography
+    * Dangrek font is employed for headings, while IBM Plex Mono serves as the primary font for the website.
+    * sans-serif as their fallback font
+
+
 
     
 
