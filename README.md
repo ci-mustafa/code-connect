@@ -213,6 +213,14 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 ![Sign-up validation result](/assets/images/css-test.png)
 </details>
 
+### Manual Testing
+
+* The website was tested on Google Chrome and Microsoft Edge browsers.
+* The website was viewed on a desktop computer, laptop, Samsung Galaxy A13 mobile phone and iphone 14 promax.
+* A large amount of testing was done to ensure links between pages are working correctly on all pages.
+* Family and friends were asked to review the website for a better understanding of the user experience.
+* Dev Tools was used to test how the site looks on various screen sizes.
+
 
 
 
