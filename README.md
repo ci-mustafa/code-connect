@@ -221,6 +221,50 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
 * Family and friends were asked to review the website for a better understanding of the user experience.
 * Dev Tools was used to test how the site looks on various screen sizes.
 
+### Lighthouse Report
+
+#### Mobile analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](/assets/images/mobile-home.png)
+</details>
+<details>
+<summary>Gallery
+</summary>
+
+![Gallery lighthouse report](/assets/images/mobile-gallery.png)
+</details>
+<details>
+<summary>Sign Up
+</summary>
+
+![Sign Up Page lighthouse report](/assets/images/mobile-signup.png)
+</details>
+
+#### Desktop analysis
+<details>
+<summary>Home Page
+</summary>
+
+![Home Page lighthouse report](/assets/images/desktop-home.png)
+</details>
+<details>
+<summary>Gallery
+</summary>
+
+![Gallery lighthouse report](/assets/images/desktop-gallery.png)
+</details>
+<details>
+<summary>Sign Up
+</summary>
+
+![Sign Up Page lighthouse report](/assets/images/desktop-signup.png)
+</details>
+
+---
+
 
 
 
