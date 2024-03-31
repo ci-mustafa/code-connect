@@ -298,6 +298,29 @@ By forking the repository, we make a copy of the original repository on our GitH
 
 ---
 
+## Credits
+
+### Code
+ * Understanding the concept of flexbox was learned through [Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+ * The README template was helpfully provided by [Code Institute (template)](https://github.com/Code-Institute-Solutions/SampleREADME)
+
+### Content
+
+ * All content was written by the developer.
+
+### Media 
+
+ * [Pexels](https://www.pexels.com/) free stock photos, royalty free images.
+ * [Pixabay](https://pixabay.com/) free stock photos, royalty free images.
+ * [Font awsome](https://fontawesome.com/) Font Awesome is utilized for accessing icons throughout the project.
+
+---
+
+## Acknowledgements
+
+ * My mentor Mitko Bachvarov provided helpful feedback, links to the Flexbox guide and link to Am I Responsive website.
+ * Slack community for encouragement and information.
+
 
 
 
