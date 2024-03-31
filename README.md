@@ -160,6 +160,22 @@ For those interested in contributing to the Code Connect platform, we welcome in
  * [CSS](https://en.wikipedia.org/wiki/CSS)
  * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
+---
+
+## Programs & Techs Used
+   * [Codeanywhere](https://codeanywhere.com/)
+      * To write the code.
+   * [Git](https://git-scm.com/)
+      * For vesion control.
+   * [Github](https://github.com/)
+      * Deployment of the website and storing the files online.
+   * [Google Fonts](https://fonts.google.com/)
+      * Import main font the website.
+   * [Am I Responsive](https://ui.dev/amiresponsive)
+      * Mockup picture for the README file.
+
+
+
 
 
     
