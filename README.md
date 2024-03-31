@@ -87,5 +87,17 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Our mission section](/assets/images/our-mission.png) 
 
+* Section three, Meetup times
+   * This section contains a meetup time table.
+   * Meetup time table contains info about:
+      * Days of meetups
+      * Specific time for every meetups
+      * Specific place for meetups
+
+![Meetups section](/assets/images/meetups.png)
+
+
+
+
 
 
