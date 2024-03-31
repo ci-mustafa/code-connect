@@ -125,6 +125,14 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Sign-up form](/assets/images/signup-form.png)
 
+---
+
+## Features Left to Implement
+
+* Additional inputs might be available in the form section.
+* Updated gallery with additional images.
+* In the future, we plan to introduce user accounts for personalized experiences and a chat feature for seamless communication among our community members.
+
 
     
 
