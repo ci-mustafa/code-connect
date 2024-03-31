@@ -81,5 +81,11 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![About section](/assets/images/about.png) 
 
+* Section two, Our mission
+   * This section contains information about our missions.
+   * Our mission section has four part with clear headings.
+
+![Our mission section](/assets/images/our-mission.png) 
+
 
 
