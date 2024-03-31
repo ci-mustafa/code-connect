@@ -67,5 +67,14 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Navigation](/assets/images/nav-img.png)
 
+* Main heading
+    * It is composed of a background image, navbar and a heading text.
+    * Main heading, which is unique for each page:
+        * The home page (About, Our mission).
+        * The gallery page.
+        * The sign-up page.
+
+![Main heading](/assets/images/main-heading.png)
+
 
 
