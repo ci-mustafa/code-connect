@@ -108,6 +108,15 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Footer](/assets/images/footer.png)
 
+* Gallery 
+    * The gallery page showcases captivating images capturing the collaborative spirit of coders working together, reflecting the essence of our vibrant coding community.
+    * The gallery photos are regularly refreshed with new submissions from our dynamic community of coders, ensuring a continuously evolving showcase of creativity and collaboration.
+
+![Gallery](/assets/images/gallery.png)
+
+
+    
+
 
 
 
