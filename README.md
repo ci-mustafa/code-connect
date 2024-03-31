@@ -59,7 +59,7 @@ For those interested in contributing to the Code Connect platform, we welcome in
 ### Existing Features
 
 * Navigation bar
-    * It is featured and fixed on all three pages and the form-received page.
+    * It is featured and fixed on all three pages.
     * Includes links to the logo, home page, about, our mission, gallery, and sign-up page.
     * It is identical in design across the pages.
     * Allows easy navigation from page to page.
@@ -95,6 +95,18 @@ For those interested in contributing to the Code Connect platform, we welcome in
       * Specific place for meetups
 
 ![Meetups section](/assets/images/meetups.png)
+
+* Footer
+    * It is featured and fixed on all three pages.
+    * Links to the social media for Code Connect will open in a new tab to allow easy navigation for the user.
+    * It is valuable to the user as it gives them an easy contact option via social media.
+    * Code Connect social medias:
+      * Facebook
+      * Twitter
+      * Youtube
+      * Instagram
+
+![Footer](/assets/images/footer.png)
 
 
 
