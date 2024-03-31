@@ -6,7 +6,6 @@ Through our commitment to fostering collaboration, sharing knowledge, and suppor
 Through our intuitive form application, anyone can seamlessly sign up and tailor their coding journey by selecting their preferred proficiency level, ranging from beginner to advanced.
 
 ![Image from different sizes of screens](/assets/images/readme-img.png)
-![Image from different sizes of screens](/assets/images/code-connect-signup.png)
 [View Code Connect live website here](https://ci-mustafa.github.io/code-connect/index.html)
 
 - - - 
