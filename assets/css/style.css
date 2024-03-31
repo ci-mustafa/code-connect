@@ -349,6 +349,7 @@ main {
     width: 40%;
     border-radius: 5px;
     color: rgba(112, 102, 4, 1);
+    border-color: rgba(112, 102, 4, 1);
     font-weight: bold;
 }
 
