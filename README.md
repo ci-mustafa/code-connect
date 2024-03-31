@@ -76,5 +76,10 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Main heading](/assets/images/main-heading.png)
 
+* Section one, About 
+    * This section contains a brief description of who we are and what we can accomplish through this website.
+
+![About section](/assets/images/about.png) 
+
 
 
