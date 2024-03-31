@@ -114,6 +114,17 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
 ![Gallery](/assets/images/gallery.png)
 
+* The Sign Up page
+   * The signup page features a user-friendly form enabling individuals to seamlessly join our thriving community.
+   * This intuitive form includes fields for inputting:
+      * First name
+      * Last name
+      * Email address
+      * Coding proficiency level
+      * Empowering users to swiftly connect with us
+
+![Sign-up form](/assets/images/signup-form.png)
+
 
     
 
