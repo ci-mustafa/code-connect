@@ -183,6 +183,36 @@ The W3C Markup Validator and W3C CSS Validator services were used to validate ev
  * [W3C Markup Validtor](https://validator.w3.org/)
  * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
+### Validation results
+
+<details>
+<summary>index.html
+</summary>
+
+![Home Page validation result](/assets/images/index-test.png)
+</details>
+
+<details>
+<summary>codegallery.html
+</summary>
+
+![Gallery validation result](/assets/images/gallery-test.png)
+</details>
+
+<details>
+<summary>signup.html
+</summary>
+
+![Sign-up validation result](/assets/images/signup-test.png)
+</details>
+
+<details>
+<summary>style.css
+</summary>
+
+![Sign-up validation result](/assets/images/css-test.png)
+</details>
+
 
 
 
