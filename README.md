@@ -159,7 +159,6 @@ For those interested in contributing to the Code Connect platform, we welcome in
 
  * [HTML5](https://en.wikipedia.org/wiki/HTML5)
  * [CSS](https://en.wikipedia.org/wiki/CSS)
- * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ---
 
