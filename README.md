@@ -17,6 +17,7 @@ Through our intuitive form application, anyone can seamlessly sign up and tailor
 * [Existing Features](#existing-features)
 ### [Features Left to Implement](#features-left-to-implement-1)
 ### [Technologies Used](#technologies-used-1)
+### [Common Issues and Solutions](#Common-Issues-and-Solutions)
 ### [Testing](#testing-1)
 * [Validation Results](#validation-results)
 * [Manual Testing](#manual-testing)
@@ -173,6 +174,14 @@ For those interested in contributing to the Code Connect platform, we welcome in
       * Import main font the website.
    * [Am I Responsive](https://ui.dev/amiresponsive)
       * Mockup picture for the README file.
+
+---
+
+## Common Issues and Solutions
+
+   * Bug: Elements with a fixed height or width may cause overflow issues, especially when the content inside them dynamically changes or when viewed on devices with different screen sizes. This can result in content being cut off or overlapping with other elements.
+
+   * Solution: To resolve this issue, you can use CSS properties such as overflow: auto or overflow: hidden to control how content overflows within the element. Alternatively, consider using CSS techniques like flexbox or grid layout to create more flexible and responsive designs that can adapt to varying content sizes and screen resolutions.
 
 ---
 
