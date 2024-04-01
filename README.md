@@ -12,10 +12,10 @@ Through our intuitive form application, anyone can seamlessly sign up and tailor
 ## Table Of Content
 ### [User Experience (UX)](#user-experience-ux-1)
 * [User Stories](#user-stories)
+### [Design](#design-1)
 ### [Features](#features)
 * [Existing Features](#existing-features)
 ### [Features Left to Implement](#features-left-to-implement-1)
-### [Design](#design-1)
 ### [Technologies Used](#technologies-used-1)
 ### [Testing](#testing-1)
 * [Validation Results](#validation-results)
